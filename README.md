@@ -1,0 +1,2 @@
+# MinimumDeletionstoMakeCharacterFrequenciesUnique
+Minimum Deletions To Make Character Frequencies Unique
